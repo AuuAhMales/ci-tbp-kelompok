@@ -1,3 +1,5 @@
+![CI Status](https://github.com/AuuAhMales/ci-tbp-kelompok/actions/workflows/ci.yml/badge.svg)
+
 # CI-TBP-Kelompok
 
 Dokumentasi proyek Continuous Integration (CI) untuk mata kuliah Rekayasa Perangkat Lunak / DevOps.
